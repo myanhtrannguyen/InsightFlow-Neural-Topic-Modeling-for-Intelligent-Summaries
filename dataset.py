@@ -20,7 +20,7 @@ class DocDataset(Dataset):
 
         # Xác định đường dẫn tệp dữ liệu
         if txtPath is None:
-            txtPath = os.path.join(self.base_dir, f'{taskname}_lines.txt')
+            txtPath = os.path.join(self.base_dir, f'{taskname}.txt')
 
         tmpDir = os.path.join(self.base_dir, taskname)
 
