@@ -1,0 +1,10 @@
+numpy==1.24.4
+scipy==1.11.4
+gensim==4.3.3
+pyvi
+torch>=1.6.0
+tqdm
+matplotlib
+sklearn
+spacy=3.0.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
